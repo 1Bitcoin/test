@@ -4,5 +4,5 @@ import "fmt"
 
 func main() {
 	fmt.Print("lox")
-	_ = 1000
+	_ = 324
 }
