@@ -1,8 +1,13 @@
 package main
 
-import "fmt"
+import (
+	"fmt"
+	"log"
+)
 
 func main() {
-	fmt.Print("lox")
+	fmt.Print("amend2")
 	_ = 1000
+	log.Fatalf("sps")
+	fmt.Print("LOL XM")
 }
